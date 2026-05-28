@@ -1,0 +1,9 @@
+q1. Find the smallest element in an array
+q2. Find the Largest element in an array
+q3. Find Second Smallest and Second Largest Element in an array
+q4. Reverse a given array
+q5. Count frequency of each element in the array
+q6. Rearrange array in increasing-decreasing order
+q7. Given an array of n size, rotate the array by k elements
+q8. Remove Duplicates in-place from Sorted Array
+q9. Find Median of the given Array
