@@ -1,0 +1,2 @@
+q1. Reverse a string
+q2. Check palindrome or not 
